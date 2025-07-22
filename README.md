@@ -88,6 +88,15 @@ This project has been deployed using [Streamlit Cloud](https://streamlit.io/clou
 > ```plaintext
 > BEARER_TOKEN = your_twitter_bearer_token_here
 > ```
+## 🛠️ Installation and Local Setup
+
+Follow the steps below to run this project on your local machine:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Rohit2255/Bitcoin-Sentiment-Analysis-Twitter-.git
+cd Bitcoin-Sentiment-Analysis-Twitter-
 
 ---
 
